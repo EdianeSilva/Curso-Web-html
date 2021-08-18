@@ -1,2 +1,3 @@
-# Curso-Web-html
- exercícios do curso Web IFSP
+# Exercícios-do-curso-Web-IFSP
+
+ Curso Web-html
